@@ -1,6 +1,6 @@
 <?php
 
-namespace Neok\LiipImagineAdditionalFiltersBundle\Imagine\Filter\Loader;
+namespace Kruczkowski\LiipImagineAdditionalFiltersBundle\Imagine\Filter\Loader;
 
 use Imagine\Gd\Image;
 use Imagine\Image\ImageInterface;

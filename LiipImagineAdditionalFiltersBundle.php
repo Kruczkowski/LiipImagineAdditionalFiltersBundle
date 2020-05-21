@@ -1,6 +1,6 @@
 <?php
 
-namespace Neok\LiipImagineAdditionalFiltersBundle;
+namespace Kruczkowski\LiipImagineAdditionalFiltersBundle;
 
 use Symfony\Component\HttpKernel\Bundle\Bundle;
 

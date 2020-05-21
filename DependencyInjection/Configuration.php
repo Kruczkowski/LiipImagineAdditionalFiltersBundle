@@ -1,6 +1,6 @@
 <?php
 
-namespace Neok\LiipImagineAdditionalFiltersBundle\DependencyInjection;
+namespace Kruczkowski\LiipImagineAdditionalFiltersBundle\DependencyInjection;
 
 use Symfony\Component\Config\Definition\Builder\TreeBuilder;
 use Symfony\Component\Config\Definition\ConfigurationInterface;

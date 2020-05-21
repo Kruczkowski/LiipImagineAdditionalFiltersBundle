@@ -1,6 +1,6 @@
 <?php
 
-namespace Neok\LiipImagineAdditionalFiltersBundle\Imagine\Filter\Loader;
+namespace Kruczkowski\LiipImagineAdditionalFiltersBundle\Imagine\Filter\Loader;
 
 /**
  * Class BlurLoader.
